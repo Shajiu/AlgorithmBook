@@ -36,7 +36,6 @@
 #### 34[NumberOf1Between1AndN_Solution.py:](https://github.com/Shajiu/Algorithm/blob/master/Offer_Code/Offer_Code/NumberOf1Between1AndN_Solution.py)求出1~13的整数中1出现的次数,并算出100~1300的整数中1出现的次数？为此他特别数了一下1~13中包含1的数字有1、10、11、12、13因此共出现6次,但是对于后面问题他就没辙了。ACMer希望你们帮帮他,并把问题更加普遍化,可以很快的求出任意非负整数区间中1出现的次数（从1 到 n 中1出现的次数）。
 #### 35[Odd_even.py:](https://github.com/Shajiu/Algorithm/blob/master/Offer_Code/Offer_Code/Odd_even.py)输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有的奇数位于数组的前半部分，所有的偶数位于数组的后半部分，并保证奇数和奇数，偶数和偶数之间的相对位置不变。
 #### 36[Permutations_zimu.py:](https://github.com/Shajiu/Algorithm/blob/master/Offer_Code/Offer_Code/Permutations_zimu.py)输入一个字符串,按字典序打印出该字符串中字符的所有排列。例如输入字符串abc,则打印出由字符a,b,c所能排列出来的所有字符串abc,acb,bac,bca,cab和cba。
-#### 37[Pop-up-order.py:](https://github.com/Shajiu/Algorithm/blob/master/Offer_Code/Offer_Code/Pop-up-order.py)输入两个整数序列，第一个序列表示栈的压入顺序，请判断第二个序列是否可能为该栈的弹出顺序。假设压入栈的所有数字均不相等。例如序列1,2,3,4,5是某栈的压入顺序，序列4,5,3,2,1是该压
-栈序列对应的一个弹出序列，但4,3,5,1,2就不可能是该压栈序列的弹出序列。（注意：这两个序列的长度是相等的）
+#### 37[Pop-up-order.py:](https://github.com/Shajiu/Algorithm/blob/master/Offer_Code/Offer_Code/Pop-up-order.py)输入两个整数序列，第一个序列表示栈的压入顺序，请判断第二个序列是否可能为该栈的弹出顺序。假设压入栈的所有数字均不相等。例如序列1,2,3,4,5是某栈的压入顺序，序列4,5,3,2,1是该压栈序列对应的一个弹出序列，但4,3,5,1,2就不可能是该压栈序列的弹出序列。（注意：这两个序列的长度是相等的）。
 #### 38[Print.py:](https://github.com/Shajiu/Algorithm/blob/master/Offer_Code/Offer_Code/Print.py)如果该节点有右子树，返回该右子树的最左叶子节点，如果没有右子树，则看它的父节点是不是祖父结点的左结点，如果是则返回祖父节点，如果不是则上溯祖父节点的父节点……直到找到祖先结点是左子树的结点，如果找不到则返回None
 #### 39[PrintMinNumber.py:](https://github.com/Shajiu/Algorithm/blob/master/Offer_Code/Offer_Code/PrintMinNumber.py)输入一个正整数数组，把数组里所有数字拼接起来排成一个数，打印能拼接出的所有数字中最小的一个。例如输入数组{3，32，321}，则打印出这三个数字能排成的最小数字为321323。
