@@ -3,3 +3,4 @@
 #### 二、[TF-IDF:](https://github.com/Shajiu/Algorithm/tree/master/TF-IDF)本文脚本是利用python3编写的计算多个文本TF-IDF值
 #### 三、[Solve-master:](https://github.com/Shajiu/Algorithm/tree/master/Solve-master)一些算法实现
 #### 四、[Offer_Code:](https://github.com/Shajiu/Algorithm/tree/master/Offer_Code) 为[剑指Offer_编程题_牛客网](https://www.nowcoder.com/ta/coding-interviews)上所有编程的题，本人亲自利用python实现。
+#### 五、[CS-Notes:](https://github.com/Shajiu/Algorithm/tree/master/CS-Notes)为一些基本的算法编程
